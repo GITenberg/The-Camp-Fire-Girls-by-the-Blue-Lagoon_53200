@@ -1,0 +1,29 @@
+_repo: The-Camp-Fire-Girls-by-the-Blue-Lagoon_53200
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Vandercook, Margaret
+    birthdate: 1876
+    gutenberg_agent_id: '2838'
+    url: http://www.gutenberg.org/2009/agents/2838
+    wikipedia: http://en.wikipedia.org/wiki/Margaret_Vandercook
+description: ''
+gutenberg_issued: '2016-10-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53200'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Young women -- Societies and clubs -- Juvenile fiction'
+- !lcsh 'First loves -- Juvenile fiction'
+- !lcsh 'Young women -- Social life and customs -- Juvenile fiction'
+- !lcsh 'Camp Fire Girls -- Juvenile fiction'
+- !lcsh 'New York (N.Y.) -- Description and travel -- Juvenile fiction'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- GITenberg
+title: The Camp Fire Girls by the Blue Lagoon
+url: http://www.gutenberg.org/ebooks/53200
